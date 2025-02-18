@@ -1,2 +1,2 @@
 # sample-code
-Repository untuk menyimpan kumulan code
+Repository untuk menyimpan kumpulan code
